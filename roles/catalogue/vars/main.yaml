@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb-{{ env }}.dawsc.fun
+MONGODB_HOST: mongodb-dev.dawsc.fun
